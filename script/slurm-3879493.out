@@ -1,0 +1,25 @@
+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
+CUDA available: True
+`torch_dtype` is deprecated! Use `dtype` instead!
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:42<00:42, 42.82s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:57<00:00, 26.56s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:57<00:00, 29.00s/it]
+The following generation flags are not valid and may be ignored: ['top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+[]
+STS-B Pearson: -0.015484017654380962
+ The metrics for car_combined_eu Metrics → Pearson: -0.0155, MAE: 10.7300, RMSE: 117.1035
+test finished
+Done
+
+============================= JOB FEEDBACK =============================
+
+NodeName=uc2n908
+Job ID: 3879493
+Cluster: uc3
+User/Group: ul_swv79/ul_student
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 8
+CPU Utilized: 01:16:24
+CPU Efficiency: 11.99% of 10:37:04 core-walltime
+Job Wall-clock time: 01:19:38
+Memory Utilized: 8.78 GB
+Memory Efficiency: 27.44% of 32.00 GB (32.00 GB/node)

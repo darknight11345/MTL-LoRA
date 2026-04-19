@@ -1,0 +1,2623 @@
+[]
+prediction: negative
+label: negative
+test:1/872 | accuracy 1  1.0
+prediction: negative
+label: negative
+test:2/872 | accuracy 2  1.0
+prediction: negative
+label: negative
+test:3/872 | accuracy 3  1.0
+prediction: positive
+label: positive
+test:4/872 | accuracy 4  1.0
+prediction: positive
+label: positive
+test:5/872 | accuracy 5  1.0
+prediction: positive
+label: positive
+test:6/872 | accuracy 6  1.0
+prediction: negative
+label: negative
+test:7/872 | accuracy 7  1.0
+prediction: positive
+label: positive
+test:8/872 | accuracy 8  1.0
+prediction: negative
+label: negative
+test:9/872 | accuracy 9  1.0
+prediction: positive
+label: positive
+test:10/872 | accuracy 10  1.0
+prediction: positive
+label: positive
+test:11/872 | accuracy 11  1.0
+prediction: negative
+label: negative
+test:12/872 | accuracy 12  1.0
+prediction: positive
+label: positive
+test:13/872 | accuracy 13  1.0
+prediction: negative
+label: negative
+test:14/872 | accuracy 14  1.0
+prediction: negative
+label: negative
+test:15/872 | accuracy 15  1.0
+prediction: negative
+label: positive
+test:16/872 | accuracy 15  0.9375
+prediction: negative
+label: negative
+test:17/872 | accuracy 16  0.9411764705882353
+prediction: negative
+label: negative
+test:18/872 | accuracy 17  0.9444444444444444
+prediction: positive
+label: positive
+test:19/872 | accuracy 18  0.9473684210526315
+prediction: negative
+label: negative
+test:20/872 | accuracy 19  0.95
+prediction: positive
+label: positive
+test:21/872 | accuracy 20  0.9523809523809523
+prediction: negative
+label: negative
+test:22/872 | accuracy 21  0.9545454545454546
+prediction: negative
+label: negative
+test:23/872 | accuracy 22  0.9565217391304348
+prediction: positive
+label: positive
+test:24/872 | accuracy 23  0.9583333333333334
+prediction: positive
+label: positive
+test:25/872 | accuracy 24  0.96
+prediction: positive
+label: positive
+test:26/872 | accuracy 25  0.9615384615384616
+prediction: negative
+label: negative
+test:27/872 | accuracy 26  0.9629629629629629
+prediction: negative
+label: negative
+test:28/872 | accuracy 27  0.9642857142857143
+prediction: negative
+label: negative
+test:29/872 | accuracy 28  0.9655172413793104
+prediction: negative
+label: negative
+test:30/872 | accuracy 29  0.9666666666666667
+prediction: negative
+label: negative
+test:31/872 | accuracy 30  0.967741935483871
+prediction: negative
+label: negative
+test:32/872 | accuracy 31  0.96875
+prediction: positive
+label: positive
+test:33/872 | accuracy 32  0.9696969696969697
+prediction: negative
+label: negative
+test:34/872 | accuracy 33  0.9705882352941176
+prediction: positive
+label: positive
+test:35/872 | accuracy 34  0.9714285714285714
+prediction: positive
+label: positive
+test:36/872 | accuracy 35  0.9722222222222222
+prediction: positive
+label: positive
+test:37/872 | accuracy 36  0.972972972972973
+prediction: positive
+label: positive
+test:38/872 | accuracy 37  0.9736842105263158
+prediction: positive
+label: positive
+test:39/872 | accuracy 38  0.9743589743589743
+prediction: negative
+label: negative
+test:40/872 | accuracy 39  0.975
+prediction: negative
+label: negative
+test:41/872 | accuracy 40  0.975609756097561
+prediction: negative
+label: negative
+test:42/872 | accuracy 41  0.9761904761904762
+prediction: negative
+label: negative
+test:43/872 | accuracy 42  0.9767441860465116
+prediction: negative
+label: negative
+test:44/872 | accuracy 43  0.9772727272727273
+prediction: negative
+label: negative
+test:45/872 | accuracy 44  0.9777777777777777
+prediction: negative
+label: negative
+test:46/872 | accuracy 45  0.9782608695652174
+prediction: negative
+label: negative
+test:47/872 | accuracy 46  0.9787234042553191
+prediction: positive
+label: positive
+test:48/872 | accuracy 47  0.9791666666666666
+prediction: positive
+label: positive
+test:49/872 | accuracy 48  0.9795918367346939
+prediction: positive
+label: positive
+test:50/872 | accuracy 49  0.98
+prediction: positive
+label: positive
+test:51/872 | accuracy 50  0.9803921568627451
+prediction: positive
+label: positive
+test:52/872 | accuracy 51  0.9807692307692307
+prediction: negative
+label: negative
+test:53/872 | accuracy 52  0.9811320754716981
+prediction: positive
+label: positive
+test:54/872 | accuracy 53  0.9814814814814815
+prediction: positive
+label: positive
+test:55/872 | accuracy 54  0.9818181818181818
+prediction: negative
+label: positive
+test:56/872 | accuracy 54  0.9642857142857143
+prediction: negative
+label: positive
+test:57/872 | accuracy 54  0.9473684210526315
+prediction: positive
+label: positive
+test:58/872 | accuracy 55  0.9482758620689655
+prediction: negative
+label: negative
+test:59/872 | accuracy 56  0.9491525423728814
+prediction: negative
+label: negative
+test:60/872 | accuracy 57  0.95
+prediction: positive
+label: positive
+test:61/872 | accuracy 58  0.9508196721311475
+prediction: negative
+label: negative
+test:62/872 | accuracy 59  0.9516129032258065
+prediction: negative
+label: negative
+test:63/872 | accuracy 60  0.9523809523809523
+prediction: positive
+label: positive
+test:64/872 | accuracy 61  0.953125
+prediction: positive
+label: positive
+test:65/872 | accuracy 62  0.9538461538461539
+prediction: negative
+label: negative
+test:66/872 | accuracy 63  0.9545454545454546
+prediction: positive
+label: positive
+test:67/872 | accuracy 64  0.9552238805970149
+prediction: positive
+label: positive
+test:68/872 | accuracy 65  0.9558823529411765
+prediction: positive
+label: positive
+test:69/872 | accuracy 66  0.9565217391304348
+prediction: negative
+label: negative
+test:70/872 | accuracy 67  0.9571428571428572
+prediction: negative
+label: negative
+test:71/872 | accuracy 68  0.9577464788732394
+prediction: positive
+label: positive
+test:72/872 | accuracy 69  0.9583333333333334
+prediction: positive
+label: positive
+test:73/872 | accuracy 70  0.958904109589041
+prediction: positive
+label: positive
+test:74/872 | accuracy 71  0.9594594594594594
+prediction: positive
+label: positive
+test:75/872 | accuracy 72  0.96
+prediction: negative
+label: negative
+test:76/872 | accuracy 73  0.9605263157894737
+prediction: positive
+label: positive
+test:77/872 | accuracy 74  0.961038961038961
+prediction: positive
+label: positive
+test:78/872 | accuracy 75  0.9615384615384616
+prediction: negative
+label: negative
+test:79/872 | accuracy 76  0.9620253164556962
+prediction: positive
+label: positive
+test:80/872 | accuracy 77  0.9625
+prediction: negative
+label: negative
+test:81/872 | accuracy 78  0.9629629629629629
+prediction: negative
+label: negative
+test:82/872 | accuracy 79  0.9634146341463414
+prediction: positive
+label: positive
+test:83/872 | accuracy 80  0.963855421686747
+prediction: negative
+label: negative
+test:84/872 | accuracy 81  0.9642857142857143
+prediction: positive
+label: positive
+test:85/872 | accuracy 82  0.9647058823529412
+prediction: negative
+label: negative
+test:86/872 | accuracy 83  0.9651162790697675
+prediction: positive
+label: positive
+test:87/872 | accuracy 84  0.9655172413793104
+prediction: positive
+label: positive
+test:88/872 | accuracy 85  0.9659090909090909
+prediction: positive
+label: positive
+test:89/872 | accuracy 86  0.9662921348314607
+prediction: negative
+label: negative
+test:90/872 | accuracy 87  0.9666666666666667
+prediction: positive
+label: positive
+test:91/872 | accuracy 88  0.967032967032967
+prediction: positive
+label: positive
+test:92/872 | accuracy 89  0.967391304347826
+prediction: negative
+label: negative
+test:93/872 | accuracy 90  0.967741935483871
+prediction: positive
+label: negative
+test:94/872 | accuracy 90  0.9574468085106383
+prediction: positive
+label: positive
+test:95/872 | accuracy 91  0.9578947368421052
+prediction: positive
+label: positive
+test:96/872 | accuracy 92  0.9583333333333334
+prediction: negative
+label: negative
+test:97/872 | accuracy 93  0.9587628865979382
+prediction: positive
+label: positive
+test:98/872 | accuracy 94  0.9591836734693877
+prediction: negative
+label: negative
+test:99/872 | accuracy 95  0.9595959595959596
+prediction: positive
+label: positive
+test:100/872 | accuracy 96  0.96
+prediction: negative
+label: negative
+test:101/872 | accuracy 97  0.9603960396039604
+prediction: negative
+label: negative
+test:102/872 | accuracy 98  0.9607843137254902
+prediction: positive
+label: positive
+test:103/872 | accuracy 99  0.9611650485436893
+prediction: negative
+label: negative
+test:104/872 | accuracy 100  0.9615384615384616
+prediction: negative
+label: negative
+test:105/872 | accuracy 101  0.9619047619047619
+prediction: negative
+label: negative
+test:106/872 | accuracy 102  0.9622641509433962
+prediction: positive
+label: positive
+test:107/872 | accuracy 103  0.9626168224299065
+prediction: positive
+label: positive
+test:108/872 | accuracy 104  0.9629629629629629
+prediction: negative
+label: negative
+test:109/872 | accuracy 105  0.963302752293578
+prediction: negative
+label: negative
+test:110/872 | accuracy 106  0.9636363636363636
+prediction: positive
+label: positive
+test:111/872 | accuracy 107  0.963963963963964
+prediction: negative
+label: negative
+test:112/872 | accuracy 108  0.9642857142857143
+prediction: positive
+label: positive
+test:113/872 | accuracy 109  0.9646017699115044
+prediction: positive
+label: positive
+test:114/872 | accuracy 110  0.9649122807017544
+prediction: negative
+label: negative
+test:115/872 | accuracy 111  0.9652173913043478
+prediction: positive
+label: positive
+test:116/872 | accuracy 112  0.9655172413793104
+prediction: positive
+label: positive
+test:117/872 | accuracy 113  0.9658119658119658
+prediction: positive
+label: positive
+test:118/872 | accuracy 114  0.9661016949152542
+prediction: negative
+label: negative
+test:119/872 | accuracy 115  0.9663865546218487
+prediction: negative
+label: negative
+test:120/872 | accuracy 116  0.9666666666666667
+prediction: positive
+label: positive
+test:121/872 | accuracy 117  0.9669421487603306
+prediction: positive
+label: positive
+test:122/872 | accuracy 118  0.9672131147540983
+prediction: positive
+label: positive
+test:123/872 | accuracy 119  0.967479674796748
+prediction: positive
+label: positive
+test:124/872 | accuracy 120  0.967741935483871
+prediction: positive
+label: positive
+test:125/872 | accuracy 121  0.968
+prediction: negative
+label: negative
+test:126/872 | accuracy 122  0.9682539682539683
+prediction: positive
+label: positive
+test:127/872 | accuracy 123  0.968503937007874
+prediction: negative
+label: negative
+test:128/872 | accuracy 124  0.96875
+prediction: positive
+label: positive
+test:129/872 | accuracy 125  0.9689922480620154
+prediction: positive
+label: positive
+test:130/872 | accuracy 126  0.9692307692307692
+prediction: positive
+label: positive
+test:131/872 | accuracy 127  0.9694656488549618
+prediction: negative
+label: negative
+test:132/872 | accuracy 128  0.9696969696969697
+prediction: positive
+label: positive
+test:133/872 | accuracy 129  0.9699248120300752
+prediction: positive
+label: positive
+test:134/872 | accuracy 130  0.9701492537313433
+prediction: negative
+label: negative
+test:135/872 | accuracy 131  0.9703703703703703
+prediction: negative
+label: negative
+test:136/872 | accuracy 132  0.9705882352941176
+prediction: negative
+label: negative
+test:137/872 | accuracy 133  0.9708029197080292
+prediction: positive
+label: positive
+test:138/872 | accuracy 134  0.9710144927536232
+prediction: positive
+label: positive
+test:139/872 | accuracy 135  0.9712230215827338
+prediction: positive
+label: positive
+test:140/872 | accuracy 136  0.9714285714285714
+prediction: negative
+label: negative
+test:141/872 | accuracy 137  0.9716312056737588
+prediction: negative
+label: negative
+test:142/872 | accuracy 138  0.971830985915493
+prediction: negative
+label: negative
+test:143/872 | accuracy 139  0.972027972027972
+prediction: positive
+label: positive
+test:144/872 | accuracy 140  0.9722222222222222
+prediction: negative
+label: negative
+test:145/872 | accuracy 141  0.9724137931034482
+prediction: negative
+label: negative
+test:146/872 | accuracy 142  0.9726027397260274
+prediction: negative
+label: negative
+test:147/872 | accuracy 143  0.9727891156462585
+prediction: positive
+label: positive
+test:148/872 | accuracy 144  0.972972972972973
+prediction: positive
+label: positive
+test:149/872 | accuracy 145  0.9731543624161074
+prediction: positive
+label: negative
+test:150/872 | accuracy 145  0.9666666666666667
+prediction: positive
+label: positive
+test:151/872 | accuracy 146  0.9668874172185431
+prediction: negative
+label: negative
+test:152/872 | accuracy 147  0.9671052631578947
+prediction: negative
+label: positive
+test:153/872 | accuracy 147  0.9607843137254902
+prediction: negative
+label: negative
+test:154/872 | accuracy 148  0.961038961038961
+prediction: positive
+label: positive
+test:155/872 | accuracy 149  0.9612903225806452
+prediction: negative
+label: negative
+test:156/872 | accuracy 150  0.9615384615384616
+prediction: negative
+label: negative
+test:157/872 | accuracy 151  0.9617834394904459
+prediction: positive
+label: positive
+test:158/872 | accuracy 152  0.9620253164556962
+prediction: negative
+label: negative
+test:159/872 | accuracy 153  0.9622641509433962
+prediction: positive
+label: positive
+test:160/872 | accuracy 154  0.9625
+prediction: negative
+label: negative
+test:161/872 | accuracy 155  0.9627329192546584
+prediction: negative
+label: negative
+test:162/872 | accuracy 156  0.9629629629629629
+prediction: negative
+label: negative
+test:163/872 | accuracy 157  0.9631901840490797
+prediction: positive
+label: positive
+test:164/872 | accuracy 158  0.9634146341463414
+prediction: negative
+label: negative
+test:165/872 | accuracy 159  0.9636363636363636
+prediction: positive
+label: positive
+test:166/872 | accuracy 160  0.963855421686747
+prediction: negative
+label: negative
+test:167/872 | accuracy 161  0.9640718562874252
+prediction: positive
+label: positive
+test:168/872 | accuracy 162  0.9642857142857143
+prediction: negative
+label: negative
+test:169/872 | accuracy 163  0.9644970414201184
+prediction: positive
+label: positive
+test:170/872 | accuracy 164  0.9647058823529412
+prediction: negative
+label: negative
+test:171/872 | accuracy 165  0.9649122807017544
+prediction: positive
+label: negative
+test:172/872 | accuracy 165  0.9593023255813954
+prediction: negative
+label: negative
+test:173/872 | accuracy 166  0.9595375722543352
+prediction: negative
+label: negative
+test:174/872 | accuracy 167  0.9597701149425287
+prediction: positive
+label: positive
+test:175/872 | accuracy 168  0.96
+prediction: positive
+label: positive
+test:176/872 | accuracy 169  0.9602272727272727
+prediction: negative
+label: negative
+test:177/872 | accuracy 170  0.96045197740113
+prediction: positive
+label: positive
+test:178/872 | accuracy 171  0.9606741573033708
+prediction: positive
+label: positive
+test:179/872 | accuracy 172  0.9608938547486033
+prediction: negative
+label: negative
+test:180/872 | accuracy 173  0.9611111111111111
+prediction: negative
+label: negative
+test:181/872 | accuracy 174  0.9613259668508287
+prediction: positive
+label: positive
+test:182/872 | accuracy 175  0.9615384615384616
+prediction: positive
+label: positive
+test:183/872 | accuracy 176  0.9617486338797814
+prediction: negative
+label: negative
+test:184/872 | accuracy 177  0.9619565217391305
+prediction: negative
+label: negative
+test:185/872 | accuracy 178  0.9621621621621622
+prediction: positive
+label: positive
+test:186/872 | accuracy 179  0.9623655913978495
+prediction: positive
+label: positive
+test:187/872 | accuracy 180  0.9625668449197861
+prediction: negative
+label: negative
+test:188/872 | accuracy 181  0.9627659574468085
+prediction: positive
+label: positive
+test:189/872 | accuracy 182  0.9629629629629629
+prediction: positive
+label: positive
+test:190/872 | accuracy 183  0.9631578947368421
+prediction: positive
+label: positive
+test:191/872 | accuracy 184  0.9633507853403142
+prediction: positive
+label: positive
+test:192/872 | accuracy 185  0.9635416666666666
+prediction: positive
+label: positive
+test:193/872 | accuracy 186  0.9637305699481865
+prediction: positive
+label: positive
+test:194/872 | accuracy 187  0.9639175257731959
+prediction: negative
+label: negative
+test:195/872 | accuracy 188  0.9641025641025641
+prediction: positive
+label: positive
+test:196/872 | accuracy 189  0.9642857142857143
+prediction: positive
+label: positive
+test:197/872 | accuracy 190  0.9644670050761421
+prediction: positive
+label: positive
+test:198/872 | accuracy 191  0.9646464646464646
+prediction: negative
+label: negative
+test:199/872 | accuracy 192  0.964824120603015
+prediction: positive
+label: negative
+test:200/872 | accuracy 192  0.96
+prediction: negative
+label: negative
+test:201/872 | accuracy 193  0.9601990049751243
+prediction: negative
+label: negative
+test:202/872 | accuracy 194  0.9603960396039604
+prediction: negative
+label: negative
+test:203/872 | accuracy 195  0.9605911330049262
+prediction: negative
+label: negative
+test:204/872 | accuracy 196  0.9607843137254902
+prediction: positive
+label: positive
+test:205/872 | accuracy 197  0.9609756097560975
+prediction: positive
+label: positive
+test:206/872 | accuracy 198  0.9611650485436893
+prediction: negative
+label: negative
+test:207/872 | accuracy 199  0.961352657004831
+prediction: negative
+label: negative
+test:208/872 | accuracy 200  0.9615384615384616
+prediction: negative
+label: negative
+test:209/872 | accuracy 201  0.9617224880382775
+prediction: positive
+label: positive
+test:210/872 | accuracy 202  0.9619047619047619
+prediction: positive
+label: positive
+test:211/872 | accuracy 203  0.9620853080568721
+prediction: negative
+label: negative
+test:212/872 | accuracy 204  0.9622641509433962
+prediction: positive
+label: positive
+test:213/872 | accuracy 205  0.9624413145539906
+prediction: positive
+label: positive
+test:214/872 | accuracy 206  0.9626168224299065
+prediction: positive
+label: positive
+test:215/872 | accuracy 207  0.9627906976744186
+prediction: negative
+label: negative
+test:216/872 | accuracy 208  0.9629629629629629
+prediction: positive
+label: positive
+test:217/872 | accuracy 209  0.9631336405529954
+prediction: negative
+label: negative
+test:218/872 | accuracy 210  0.963302752293578
+prediction: negative
+label: negative
+test:219/872 | accuracy 211  0.9634703196347032
+prediction: negative
+label: negative
+test:220/872 | accuracy 212  0.9636363636363636
+prediction: negative
+label: negative
+test:221/872 | accuracy 213  0.9638009049773756
+prediction: negative
+label: negative
+test:222/872 | accuracy 214  0.963963963963964
+prediction: positive
+label: positive
+test:223/872 | accuracy 215  0.9641255605381166
+prediction: negative
+label: negative
+test:224/872 | accuracy 216  0.9642857142857143
+prediction: negative
+label: negative
+test:225/872 | accuracy 217  0.9644444444444444
+prediction: positive
+label: positive
+test:226/872 | accuracy 218  0.9646017699115044
+prediction: negative
+label: negative
+test:227/872 | accuracy 219  0.9647577092511013
+prediction: positive
+label: positive
+test:228/872 | accuracy 220  0.9649122807017544
+prediction: negative
+label: negative
+test:229/872 | accuracy 221  0.9650655021834061
+prediction: negative
+label: negative
+test:230/872 | accuracy 222  0.9652173913043478
+prediction: negative
+label: negative
+test:231/872 | accuracy 223  0.9653679653679653
+prediction: negative
+label: negative
+test:232/872 | accuracy 224  0.9655172413793104
+prediction: negative
+label: negative
+test:233/872 | accuracy 225  0.9656652360515021
+prediction: positive
+label: positive
+test:234/872 | accuracy 226  0.9658119658119658
+prediction: negative
+label: negative
+test:235/872 | accuracy 227  0.9659574468085106
+prediction: negative
+label: negative
+test:236/872 | accuracy 228  0.9661016949152542
+prediction: negative
+label: negative
+test:237/872 | accuracy 229  0.9662447257383966
+prediction: negative
+label: negative
+test:238/872 | accuracy 230  0.9663865546218487
+prediction: positive
+label: positive
+test:239/872 | accuracy 231  0.9665271966527197
+prediction: positive
+label: positive
+test:240/872 | accuracy 232  0.9666666666666667
+prediction: positive
+label: positive
+test:241/872 | accuracy 233  0.966804979253112
+prediction: positive
+label: positive
+test:242/872 | accuracy 234  0.9669421487603306
+prediction: negative
+label: negative
+test:243/872 | accuracy 235  0.9670781893004116
+prediction: positive
+label: positive
+test:244/872 | accuracy 236  0.9672131147540983
+prediction: positive
+label: positive
+test:245/872 | accuracy 237  0.9673469387755103
+prediction: positive
+label: positive
+test:246/872 | accuracy 238  0.967479674796748
+prediction: negative
+label: negative
+test:247/872 | accuracy 239  0.9676113360323887
+prediction: positive
+label: positive
+test:248/872 | accuracy 240  0.967741935483871
+prediction: positive
+label: positive
+test:249/872 | accuracy 241  0.9678714859437751
+prediction: positive
+label: positive
+test:250/872 | accuracy 242  0.968
+prediction: negative
+label: negative
+test:251/872 | accuracy 243  0.9681274900398407
+prediction: positive
+label: positive
+test:252/872 | accuracy 244  0.9682539682539683
+prediction: positive
+label: positive
+test:253/872 | accuracy 245  0.9683794466403162
+prediction: negative
+label: negative
+test:254/872 | accuracy 246  0.968503937007874
+prediction: positive
+label: positive
+test:255/872 | accuracy 247  0.9686274509803922
+prediction: negative
+label: negative
+test:256/872 | accuracy 248  0.96875
+prediction: negative
+label: negative
+test:257/872 | accuracy 249  0.9688715953307393
+prediction: negative
+label: negative
+test:258/872 | accuracy 250  0.9689922480620154
+prediction: positive
+label: positive
+test:259/872 | accuracy 251  0.9691119691119691
+prediction: negative
+label: negative
+test:260/872 | accuracy 252  0.9692307692307692
+prediction: positive
+label: positive
+test:261/872 | accuracy 253  0.9693486590038314
+prediction: negative
+label: negative
+test:262/872 | accuracy 254  0.9694656488549618
+prediction: negative
+label: negative
+test:263/872 | accuracy 255  0.9695817490494296
+prediction: negative
+label: negative
+test:264/872 | accuracy 256  0.9696969696969697
+prediction: positive
+label: positive
+test:265/872 | accuracy 257  0.969811320754717
+prediction: positive
+label: positive
+test:266/872 | accuracy 258  0.9699248120300752
+prediction: positive
+label: positive
+test:267/872 | accuracy 259  0.9700374531835206
+prediction: positive
+label: positive
+test:268/872 | accuracy 260  0.9701492537313433
+prediction: negative
+label: negative
+test:269/872 | accuracy 261  0.9702602230483272
+prediction: positive
+label: positive
+test:270/872 | accuracy 262  0.9703703703703703
+prediction: negative
+label: negative
+test:271/872 | accuracy 263  0.9704797047970479
+prediction: positive
+label: positive
+test:272/872 | accuracy 264  0.9705882352941176
+prediction: positive
+label: positive
+test:273/872 | accuracy 265  0.9706959706959707
+prediction: positive
+label: positive
+test:274/872 | accuracy 266  0.9708029197080292
+prediction: negative
+label: negative
+test:275/872 | accuracy 267  0.9709090909090909
+prediction: negative
+label: negative
+test:276/872 | accuracy 268  0.9710144927536232
+prediction: negative
+label: negative
+test:277/872 | accuracy 269  0.9711191335740073
+prediction: negative
+label: negative
+test:278/872 | accuracy 270  0.9712230215827338
+prediction: positive
+label: positive
+test:279/872 | accuracy 271  0.9713261648745519
+prediction: negative
+label: negative
+test:280/872 | accuracy 272  0.9714285714285714
+prediction: positive
+label: positive
+test:281/872 | accuracy 273  0.9715302491103203
+prediction: negative
+label: negative
+test:282/872 | accuracy 274  0.9716312056737588
+prediction: positive
+label: positive
+test:283/872 | accuracy 275  0.9717314487632509
+prediction: negative
+label: negative
+test:284/872 | accuracy 276  0.971830985915493
+prediction: negative
+label: negative
+test:285/872 | accuracy 277  0.9719298245614035
+prediction: negative
+label: negative
+test:286/872 | accuracy 278  0.972027972027972
+prediction: negative
+label: negative
+test:287/872 | accuracy 279  0.9721254355400697
+prediction: negative
+label: negative
+test:288/872 | accuracy 280  0.9722222222222222
+prediction: positive
+label: positive
+test:289/872 | accuracy 281  0.972318339100346
+prediction: negative
+label: negative
+test:290/872 | accuracy 282  0.9724137931034482
+prediction: positive
+label: positive
+test:291/872 | accuracy 283  0.9725085910652921
+prediction: positive
+label: negative
+test:292/872 | accuracy 283  0.9691780821917808
+prediction: positive
+label: positive
+test:293/872 | accuracy 284  0.9692832764505119
+prediction: negative
+label: negative
+test:294/872 | accuracy 285  0.9693877551020408
+prediction: positive
+label: positive
+test:295/872 | accuracy 286  0.9694915254237289
+prediction: negative
+label: negative
+test:296/872 | accuracy 287  0.9695945945945946
+prediction: positive
+label: positive
+test:297/872 | accuracy 288  0.9696969696969697
+prediction: positive
+label: positive
+test:298/872 | accuracy 289  0.9697986577181208
+prediction: positive
+label: positive
+test:299/872 | accuracy 290  0.9698996655518395
+prediction: positive
+label: positive
+test:300/872 | accuracy 291  0.97
+prediction: negative
+label: negative
+test:301/872 | accuracy 292  0.9700996677740864
+prediction: negative
+label: negative
+test:302/872 | accuracy 293  0.9701986754966887
+prediction: positive
+label: positive
+test:303/872 | accuracy 294  0.9702970297029703
+prediction: negative
+label: negative
+test:304/872 | accuracy 295  0.9703947368421053
+prediction: positive
+label: positive
+test:305/872 | accuracy 296  0.9704918032786886
+prediction: positive
+label: positive
+test:306/872 | accuracy 297  0.9705882352941176
+prediction: negative
+label: negative
+test:307/872 | accuracy 298  0.9706840390879479
+prediction: positive
+label: positive
+test:308/872 | accuracy 299  0.9707792207792207
+prediction: positive
+label: positive
+test:309/872 | accuracy 300  0.970873786407767
+prediction: negative
+label: negative
+test:310/872 | accuracy 301  0.9709677419354839
+prediction: positive
+label: positive
+test:311/872 | accuracy 302  0.9710610932475884
+prediction: negative
+label: negative
+test:312/872 | accuracy 303  0.9711538461538461
+prediction: positive
+label: positive
+test:313/872 | accuracy 304  0.9712460063897763
+prediction: positive
+label: positive
+test:314/872 | accuracy 305  0.9713375796178344
+prediction: negative
+label: negative
+test:315/872 | accuracy 306  0.9714285714285714
+prediction: negative
+label: negative
+test:316/872 | accuracy 307  0.9715189873417721
+prediction: negative
+label: negative
+test:317/872 | accuracy 308  0.9716088328075709
+prediction: positive
+label: positive
+test:318/872 | accuracy 309  0.9716981132075472
+prediction: positive
+label: positive
+test:319/872 | accuracy 310  0.9717868338557993
+prediction: positive
+label: positive
+test:320/872 | accuracy 311  0.971875
+prediction: positive
+label: positive
+test:321/872 | accuracy 312  0.9719626168224299
+prediction: negative
+label: negative
+test:322/872 | accuracy 313  0.9720496894409938
+prediction: negative
+label: negative
+test:323/872 | accuracy 314  0.9721362229102167
+prediction: positive
+label: positive
+test:324/872 | accuracy 315  0.9722222222222222
+prediction: positive
+label: positive
+test:325/872 | accuracy 316  0.9723076923076923
+prediction: negative
+label: negative
+test:326/872 | accuracy 317  0.9723926380368099
+prediction: positive
+label: positive
+test:327/872 | accuracy 318  0.9724770642201835
+prediction: negative
+label: negative
+test:328/872 | accuracy 319  0.9725609756097561
+prediction: negative
+label: negative
+test:329/872 | accuracy 320  0.9726443768996961
+prediction: positive
+label: positive
+test:330/872 | accuracy 321  0.9727272727272728
+prediction: negative
+label: negative
+test:331/872 | accuracy 322  0.972809667673716
+prediction: positive
+label: positive
+test:332/872 | accuracy 323  0.9728915662650602
+prediction: negative
+label: negative
+test:333/872 | accuracy 324  0.972972972972973
+prediction: positive
+label: positive
+test:334/872 | accuracy 325  0.9730538922155688
+prediction: positive
+label: positive
+test:335/872 | accuracy 326  0.9731343283582089
+prediction: positive
+label: positive
+test:336/872 | accuracy 327  0.9732142857142857
+prediction: negative
+label: negative
+test:337/872 | accuracy 328  0.973293768545994
+prediction: positive
+label: positive
+test:338/872 | accuracy 329  0.9733727810650887
+prediction: positive
+label: positive
+test:339/872 | accuracy 330  0.9734513274336283
+prediction: positive
+label: positive
+test:340/872 | accuracy 331  0.9735294117647059
+prediction: negative
+label: negative
+test:341/872 | accuracy 332  0.9736070381231672
+prediction: positive
+label: positive
+test:342/872 | accuracy 333  0.9736842105263158
+prediction: negative
+label: negative
+test:343/872 | accuracy 334  0.9737609329446064
+prediction: positive
+label: positive
+test:344/872 | accuracy 335  0.9738372093023255
+prediction: positive
+label: positive
+test:345/872 | accuracy 336  0.9739130434782609
+prediction: positive
+label: positive
+test:346/872 | accuracy 337  0.9739884393063584
+prediction: positive
+label: positive
+test:347/872 | accuracy 338  0.9740634005763689
+prediction: negative
+label: negative
+test:348/872 | accuracy 339  0.9741379310344828
+prediction: negative
+label: negative
+test:349/872 | accuracy 340  0.9742120343839542
+prediction: positive
+label: positive
+test:350/872 | accuracy 341  0.9742857142857143
+prediction: negative
+label: negative
+test:351/872 | accuracy 342  0.9743589743589743
+prediction: positive
+label: positive
+test:352/872 | accuracy 343  0.9744318181818182
+prediction: negative
+label: negative
+test:353/872 | accuracy 344  0.9745042492917847
+prediction: positive
+label: positive
+test:354/872 | accuracy 345  0.9745762711864406
+prediction: positive
+label: positive
+test:355/872 | accuracy 346  0.9746478873239437
+prediction: positive
+label: positive
+test:356/872 | accuracy 347  0.9747191011235955
+prediction: negative
+label: negative
+test:357/872 | accuracy 348  0.9747899159663865
+prediction: negative
+label: negative
+test:358/872 | accuracy 349  0.9748603351955307
+prediction: negative
+label: negative
+test:359/872 | accuracy 350  0.9749303621169917
+prediction: negative
+label: negative
+test:360/872 | accuracy 351  0.975
+prediction: negative
+label: negative
+test:361/872 | accuracy 352  0.9750692520775623
+prediction: negative
+label: negative
+test:362/872 | accuracy 353  0.9751381215469613
+prediction: negative
+label: negative
+test:363/872 | accuracy 354  0.9752066115702479
+prediction: positive
+label: positive
+test:364/872 | accuracy 355  0.9752747252747253
+prediction: negative
+label: negative
+test:365/872 | accuracy 356  0.9753424657534246
+prediction: negative
+label: negative
+test:366/872 | accuracy 357  0.9754098360655737
+prediction: negative
+label: negative
+test:367/872 | accuracy 358  0.9754768392370572
+prediction: negative
+label: negative
+test:368/872 | accuracy 359  0.9755434782608695
+prediction: negative
+label: negative
+test:369/872 | accuracy 360  0.975609756097561
+prediction: positive
+label: positive
+test:370/872 | accuracy 361  0.9756756756756757
+prediction: negative
+label: negative
+test:371/872 | accuracy 362  0.9757412398921833
+prediction: negative
+label: positive
+test:372/872 | accuracy 362  0.9731182795698925
+prediction: negative
+label: negative
+test:373/872 | accuracy 363  0.9731903485254692
+prediction: positive
+label: positive
+test:374/872 | accuracy 364  0.9732620320855615
+prediction: positive
+label: positive
+test:375/872 | accuracy 365  0.9733333333333334
+prediction: positive
+label: positive
+test:376/872 | accuracy 366  0.973404255319149
+prediction: negative
+label: negative
+test:377/872 | accuracy 367  0.9734748010610079
+prediction: positive
+label: positive
+test:378/872 | accuracy 368  0.9735449735449735
+prediction: positive
+label: positive
+test:379/872 | accuracy 369  0.9736147757255936
+prediction: negative
+label: negative
+test:380/872 | accuracy 370  0.9736842105263158
+prediction: negative
+label: negative
+test:381/872 | accuracy 371  0.973753280839895
+prediction: negative
+label: negative
+test:382/872 | accuracy 372  0.9738219895287958
+prediction: positive
+label: negative
+test:383/872 | accuracy 372  0.9712793733681462
+prediction: negative
+label: negative
+test:384/872 | accuracy 373  0.9713541666666666
+prediction: negative
+label: negative
+test:385/872 | accuracy 374  0.9714285714285714
+prediction: positive
+label: positive
+test:386/872 | accuracy 375  0.9715025906735751
+prediction: negative
+label: negative
+test:387/872 | accuracy 376  0.9715762273901809
+prediction: positive
+label: positive
+test:388/872 | accuracy 377  0.9716494845360825
+prediction: negative
+label: negative
+test:389/872 | accuracy 378  0.9717223650385605
+prediction: negative
+label: negative
+test:390/872 | accuracy 379  0.9717948717948718
+prediction: negative
+label: negative
+test:391/872 | accuracy 380  0.9718670076726342
+prediction: negative
+label: negative
+test:392/872 | accuracy 381  0.9719387755102041
+prediction: positive
+label: positive
+test:393/872 | accuracy 382  0.9720101781170484
+prediction: negative
+label: negative
+test:394/872 | accuracy 383  0.9720812182741116
+prediction: negative
+label: positive
+test:395/872 | accuracy 383  0.9696202531645569
+prediction: positive
+label: positive
+test:396/872 | accuracy 384  0.9696969696969697
+prediction: negative
+label: negative
+test:397/872 | accuracy 385  0.9697732997481109
+prediction: positive
+label: positive
+test:398/872 | accuracy 386  0.9698492462311558
+prediction: negative
+label: negative
+test:399/872 | accuracy 387  0.9699248120300752
+prediction: negative
+label: negative
+test:400/872 | accuracy 388  0.97
+prediction: negative
+label: negative
+test:401/872 | accuracy 389  0.970074812967581
+prediction: positive
+label: positive
+test:402/872 | accuracy 390  0.9701492537313433
+prediction: positive
+label: positive
+test:403/872 | accuracy 391  0.9702233250620348
+prediction: positive
+label: positive
+test:404/872 | accuracy 392  0.9702970297029703
+prediction: negative
+label: negative
+test:405/872 | accuracy 393  0.9703703703703703
+prediction: positive
+label: positive
+test:406/872 | accuracy 394  0.9704433497536946
+prediction: positive
+label: positive
+test:407/872 | accuracy 395  0.9705159705159705
+prediction: positive
+label: positive
+test:408/872 | accuracy 396  0.9705882352941176
+prediction: negative
+label: negative
+test:409/872 | accuracy 397  0.9706601466992665
+prediction: positive
+label: positive
+test:410/872 | accuracy 398  0.9707317073170731
+prediction: negative
+label: negative
+test:411/872 | accuracy 399  0.9708029197080292
+prediction: positive
+label: positive
+test:412/872 | accuracy 400  0.970873786407767
+prediction: positive
+label: negative
+test:413/872 | accuracy 400  0.9685230024213075
+prediction: negative
+label: negative
+test:414/872 | accuracy 401  0.9685990338164251
+prediction: positive
+label: positive
+test:415/872 | accuracy 402  0.9686746987951808
+prediction: positive
+label: positive
+test:416/872 | accuracy 403  0.96875
+prediction: positive
+label: positive
+test:417/872 | accuracy 404  0.9688249400479616
+prediction: positive
+label: positive
+test:418/872 | accuracy 405  0.9688995215311005
+prediction: positive
+label: positive
+test:419/872 | accuracy 406  0.9689737470167065
+prediction: positive
+label: positive
+test:420/872 | accuracy 407  0.969047619047619
+prediction: positive
+label: positive
+test:421/872 | accuracy 408  0.9691211401425178
+prediction: negative
+label: positive
+test:422/872 | accuracy 408  0.966824644549763
+prediction: negative
+label: negative
+test:423/872 | accuracy 409  0.966903073286052
+prediction: negative
+label: negative
+test:424/872 | accuracy 410  0.9669811320754716
+prediction: positive
+label: positive
+test:425/872 | accuracy 411  0.9670588235294117
+prediction: positive
+label: positive
+test:426/872 | accuracy 412  0.9671361502347418
+prediction: positive
+label: positive
+test:427/872 | accuracy 413  0.9672131147540983
+prediction: positive
+label: positive
+test:428/872 | accuracy 414  0.9672897196261683
+prediction: negative
+label: negative
+test:429/872 | accuracy 415  0.9673659673659674
+prediction: positive
+label: positive
+test:430/872 | accuracy 416  0.9674418604651163
+prediction: negative
+label: negative
+test:431/872 | accuracy 417  0.9675174013921114
+prediction: negative
+label: negative
+test:432/872 | accuracy 418  0.9675925925925926
+prediction: positive
+label: positive
+test:433/872 | accuracy 419  0.9676674364896074
+prediction: negative
+label: negative
+test:434/872 | accuracy 420  0.967741935483871
+prediction: positive
+label: positive
+test:435/872 | accuracy 421  0.967816091954023
+prediction: positive
+label: positive
+test:436/872 | accuracy 422  0.9678899082568807
+prediction: negative
+label: negative
+test:437/872 | accuracy 423  0.9679633867276888
+prediction: positive
+label: positive
+test:438/872 | accuracy 424  0.9680365296803652
+prediction: positive
+label: positive
+test:439/872 | accuracy 425  0.9681093394077449
+prediction: positive
+label: positive
+test:440/872 | accuracy 426  0.9681818181818181
+prediction: negative
+label: negative
+test:441/872 | accuracy 427  0.9682539682539683
+prediction: positive
+label: positive
+test:442/872 | accuracy 428  0.9683257918552036
+prediction: negative
+label: positive
+test:443/872 | accuracy 428  0.9661399548532731
+prediction: negative
+label: negative
+test:444/872 | accuracy 429  0.9662162162162162
+prediction: positive
+label: positive
+test:445/872 | accuracy 430  0.9662921348314607
+prediction: positive
+label: positive
+test:446/872 | accuracy 431  0.9663677130044843
+prediction: negative
+label: negative
+test:447/872 | accuracy 432  0.9664429530201343
+prediction: negative
+label: negative
+test:448/872 | accuracy 433  0.9665178571428571
+prediction: negative
+label: negative
+test:449/872 | accuracy 434  0.9665924276169265
+prediction: negative
+label: negative
+test:450/872 | accuracy 435  0.9666666666666667
+prediction: negative
+label: negative
+test:451/872 | accuracy 436  0.9667405764966741
+prediction: positive
+label: positive
+test:452/872 | accuracy 437  0.9668141592920354
+prediction: negative
+label: negative
+test:453/872 | accuracy 438  0.9668874172185431
+prediction: positive
+label: positive
+test:454/872 | accuracy 439  0.9669603524229075
+prediction: negative
+label: negative
+test:455/872 | accuracy 440  0.967032967032967
+prediction: negative
+label: negative
+test:456/872 | accuracy 441  0.9671052631578947
+prediction: positive
+label: positive
+test:457/872 | accuracy 442  0.9671772428884027
+prediction: negative
+label: negative
+test:458/872 | accuracy 443  0.9672489082969432
+prediction: positive
+label: positive
+test:459/872 | accuracy 444  0.9673202614379085
+prediction: positive
+label: positive
+test:460/872 | accuracy 445  0.967391304347826
+prediction: positive
+label: positive
+test:461/872 | accuracy 446  0.9674620390455532
+prediction: positive
+label: positive
+test:462/872 | accuracy 447  0.9675324675324676
+prediction: negative
+label: negative
+test:463/872 | accuracy 448  0.9676025917926566
+prediction: positive
+label: positive
+test:464/872 | accuracy 449  0.9676724137931034
+prediction: negative
+label: negative
+test:465/872 | accuracy 450  0.967741935483871
+prediction: negative
+label: negative
+test:466/872 | accuracy 451  0.9678111587982833
+prediction: negative
+label: negative
+test:467/872 | accuracy 452  0.9678800856531049
+prediction: negative
+label: negative
+test:468/872 | accuracy 453  0.967948717948718
+prediction: positive
+label: positive
+test:469/872 | accuracy 454  0.9680170575692963
+prediction: positive
+label: positive
+test:470/872 | accuracy 455  0.9680851063829787
+prediction: negative
+label: negative
+test:471/872 | accuracy 456  0.9681528662420382
+prediction: positive
+label: positive
+test:472/872 | accuracy 457  0.9682203389830508
+prediction: negative
+label: negative
+test:473/872 | accuracy 458  0.9682875264270613
+prediction: negative
+label: negative
+test:474/872 | accuracy 459  0.9683544303797469
+prediction: negative
+label: negative
+test:475/872 | accuracy 460  0.968421052631579
+prediction: negative
+label: negative
+test:476/872 | accuracy 461  0.9684873949579832
+prediction: positive
+label: positive
+test:477/872 | accuracy 462  0.9685534591194969
+prediction: negative
+label: negative
+test:478/872 | accuracy 463  0.9686192468619247
+prediction: negative
+label: negative
+test:479/872 | accuracy 464  0.9686847599164927
+prediction: negative
+label: negative
+test:480/872 | accuracy 465  0.96875
+prediction: positive
+label: positive
+test:481/872 | accuracy 466  0.9688149688149689
+prediction: negative
+label: negative
+test:482/872 | accuracy 467  0.9688796680497925
+prediction: negative
+label: negative
+test:483/872 | accuracy 468  0.968944099378882
+prediction: positive
+label: positive
+test:484/872 | accuracy 469  0.96900826446281
+prediction: positive
+label: positive
+test:485/872 | accuracy 470  0.9690721649484536
+prediction: positive
+label: positive
+test:486/872 | accuracy 471  0.9691358024691358
+prediction: positive
+label: positive
+test:487/872 | accuracy 472  0.9691991786447639
+prediction: negative
+label: negative
+test:488/872 | accuracy 473  0.9692622950819673
+prediction: negative
+label: positive
+test:489/872 | accuracy 473  0.967280163599182
+prediction: negative
+label: negative
+test:490/872 | accuracy 474  0.9673469387755103
+prediction: negative
+label: negative
+test:491/872 | accuracy 475  0.9674134419551935
+prediction: negative
+label: negative
+test:492/872 | accuracy 476  0.967479674796748
+prediction: positive
+label: positive
+test:493/872 | accuracy 477  0.9675456389452333
+prediction: positive
+label: positive
+test:494/872 | accuracy 478  0.9676113360323887
+prediction: negative
+label: negative
+test:495/872 | accuracy 479  0.9676767676767677
+prediction: positive
+label: positive
+test:496/872 | accuracy 480  0.967741935483871
+prediction: positive
+label: positive
+test:497/872 | accuracy 481  0.9678068410462777
+prediction: positive
+label: positive
+test:498/872 | accuracy 482  0.9678714859437751
+prediction: negative
+label: negative
+test:499/872 | accuracy 483  0.9679358717434869
+prediction: positive
+label: positive
+test:500/872 | accuracy 484  0.968
+prediction: negative
+label: negative
+test:501/872 | accuracy 485  0.9680638722554891
+prediction: negative
+label: negative
+test:502/872 | accuracy 486  0.9681274900398407
+prediction: positive
+label: positive
+test:503/872 | accuracy 487  0.9681908548707754
+prediction: positive
+label: positive
+test:504/872 | accuracy 488  0.9682539682539683
+prediction: positive
+label: positive
+test:505/872 | accuracy 489  0.9683168316831683
+prediction: positive
+label: negative
+test:506/872 | accuracy 489  0.9664031620553359
+prediction: positive
+label: negative
+test:507/872 | accuracy 489  0.9644970414201184
+prediction: positive
+label: positive
+test:508/872 | accuracy 490  0.9645669291338582
+prediction: positive
+label: positive
+test:509/872 | accuracy 491  0.9646365422396856
+prediction: negative
+label: negative
+test:510/872 | accuracy 492  0.9647058823529412
+prediction: positive
+label: positive
+test:511/872 | accuracy 493  0.9647749510763209
+prediction: negative
+label: negative
+test:512/872 | accuracy 494  0.96484375
+prediction: negative
+label: negative
+test:513/872 | accuracy 495  0.9649122807017544
+prediction: negative
+label: negative
+test:514/872 | accuracy 496  0.9649805447470817
+prediction: negative
+label: negative
+test:515/872 | accuracy 497  0.9650485436893204
+prediction: positive
+label: positive
+test:516/872 | accuracy 498  0.9651162790697675
+prediction: negative
+label: negative
+test:517/872 | accuracy 499  0.965183752417795
+prediction: negative
+label: negative
+test:518/872 | accuracy 500  0.9652509652509652
+prediction: positive
+label: positive
+test:519/872 | accuracy 501  0.9653179190751445
+prediction: negative
+label: negative
+test:520/872 | accuracy 502  0.9653846153846154
+prediction: positive
+label: positive
+test:521/872 | accuracy 503  0.9654510556621881
+prediction: negative
+label: negative
+test:522/872 | accuracy 504  0.9655172413793104
+prediction: positive
+label: positive
+test:523/872 | accuracy 505  0.9655831739961759
+prediction: negative
+label: negative
+test:524/872 | accuracy 506  0.9656488549618321
+prediction: positive
+label: positive
+test:525/872 | accuracy 507  0.9657142857142857
+prediction: negative
+label: negative
+test:526/872 | accuracy 508  0.9657794676806084
+prediction: positive
+label: positive
+test:527/872 | accuracy 509  0.9658444022770398
+prediction: negative
+label: negative
+test:528/872 | accuracy 510  0.9659090909090909
+prediction: negative
+label: negative
+test:529/872 | accuracy 511  0.9659735349716446
+prediction: positive
+label: positive
+test:530/872 | accuracy 512  0.9660377358490566
+prediction: positive
+label: positive
+test:531/872 | accuracy 513  0.9661016949152542
+prediction: negative
+label: negative
+test:532/872 | accuracy 514  0.9661654135338346
+prediction: negative
+label: negative
+test:533/872 | accuracy 515  0.9662288930581614
+prediction: negative
+label: negative
+test:534/872 | accuracy 516  0.9662921348314607
+prediction: positive
+label: positive
+test:535/872 | accuracy 517  0.9663551401869159
+prediction: positive
+label: positive
+test:536/872 | accuracy 518  0.9664179104477612
+prediction: negative
+label: negative
+test:537/872 | accuracy 519  0.9664804469273743
+prediction: negative
+label: negative
+test:538/872 | accuracy 520  0.966542750929368
+prediction: negative
+label: negative
+test:539/872 | accuracy 521  0.9666048237476809
+prediction: negative
+label: negative
+test:540/872 | accuracy 522  0.9666666666666667
+prediction: negative
+label: negative
+test:541/872 | accuracy 523  0.966728280961183
+prediction: positive
+label: negative
+test:542/872 | accuracy 523  0.9649446494464945
+prediction: positive
+label: positive
+test:543/872 | accuracy 524  0.9650092081031307
+prediction: positive
+label: positive
+test:544/872 | accuracy 525  0.9650735294117647
+prediction: negative
+label: negative
+test:545/872 | accuracy 526  0.9651376146788991
+prediction: negative
+label: negative
+test:546/872 | accuracy 527  0.9652014652014652
+prediction: positive
+label: positive
+test:547/872 | accuracy 528  0.9652650822669104
+prediction: negative
+label: positive
+test:548/872 | accuracy 528  0.9635036496350365
+prediction: negative
+label: negative
+test:549/872 | accuracy 529  0.9635701275045537
+prediction: positive
+label: positive
+test:550/872 | accuracy 530  0.9636363636363636
+prediction: negative
+label: negative
+test:551/872 | accuracy 531  0.9637023593466425
+prediction: negative
+label: negative
+test:552/872 | accuracy 532  0.9637681159420289
+prediction: negative
+label: negative
+test:553/872 | accuracy 533  0.9638336347197106
+prediction: negative
+label: negative
+test:554/872 | accuracy 534  0.9638989169675091
+prediction: negative
+label: negative
+test:555/872 | accuracy 535  0.963963963963964
+prediction: positive
+label: positive
+test:556/872 | accuracy 536  0.9640287769784173
+prediction: negative
+label: negative
+test:557/872 | accuracy 537  0.9640933572710951
+prediction: negative
+label: negative
+test:558/872 | accuracy 538  0.96415770609319
+prediction: negative
+label: negative
+test:559/872 | accuracy 539  0.964221824686941
+prediction: negative
+label: negative
+test:560/872 | accuracy 540  0.9642857142857143
+prediction: negative
+label: negative
+test:561/872 | accuracy 541  0.964349376114082
+prediction: positive
+label: positive
+test:562/872 | accuracy 542  0.9644128113879004
+prediction: negative
+label: negative
+test:563/872 | accuracy 543  0.9644760213143873
+prediction: positive
+label: positive
+test:564/872 | accuracy 544  0.9645390070921985
+prediction: positive
+label: positive
+test:565/872 | accuracy 545  0.9646017699115044
+prediction: positive
+label: positive
+test:566/872 | accuracy 546  0.9646643109540636
+prediction: positive
+label: positive
+test:567/872 | accuracy 547  0.9647266313932981
+prediction: negative
+label: negative
+test:568/872 | accuracy 548  0.9647887323943662
+prediction: positive
+label: positive
+test:569/872 | accuracy 549  0.9648506151142355
+prediction: positive
+label: positive
+test:570/872 | accuracy 550  0.9649122807017544
+prediction: positive
+label: positive
+test:571/872 | accuracy 551  0.9649737302977233
+prediction: negative
+label: negative
+test:572/872 | accuracy 552  0.965034965034965
+prediction: negative
+label: negative
+test:573/872 | accuracy 553  0.9650959860383944
+prediction: negative
+label: negative
+test:574/872 | accuracy 554  0.9651567944250871
+prediction: negative
+label: negative
+test:575/872 | accuracy 555  0.9652173913043478
+prediction: negative
+label: negative
+test:576/872 | accuracy 556  0.9652777777777778
+prediction: positive
+label: positive
+test:577/872 | accuracy 557  0.9653379549393414
+prediction: negative
+label: negative
+test:578/872 | accuracy 558  0.9653979238754326
+prediction: positive
+label: positive
+test:579/872 | accuracy 559  0.9654576856649395
+prediction: negative
+label: negative
+test:580/872 | accuracy 560  0.9655172413793104
+prediction: positive
+label: positive
+test:581/872 | accuracy 561  0.9655765920826161
+prediction: positive
+label: positive
+test:582/872 | accuracy 562  0.9656357388316151
+prediction: positive
+label: positive
+test:583/872 | accuracy 563  0.9656946826758147
+prediction: positive
+label: positive
+test:584/872 | accuracy 564  0.9657534246575342
+prediction: positive
+label: positive
+test:585/872 | accuracy 565  0.9658119658119658
+prediction: negative
+label: negative
+test:586/872 | accuracy 566  0.9658703071672355
+prediction: negative
+label: negative
+test:587/872 | accuracy 567  0.9659284497444633
+prediction: positive
+label: positive
+test:588/872 | accuracy 568  0.9659863945578231
+prediction: negative
+label: negative
+test:589/872 | accuracy 569  0.966044142614601
+prediction: negative
+label: positive
+test:590/872 | accuracy 569  0.964406779661017
+prediction: positive
+label: positive
+test:591/872 | accuracy 570  0.9644670050761421
+prediction: positive
+label: positive
+test:592/872 | accuracy 571  0.964527027027027
+prediction: positive
+label: positive
+test:593/872 | accuracy 572  0.9645868465430016
+prediction: positive
+label: positive
+test:594/872 | accuracy 573  0.9646464646464646
+prediction: positive
+label: positive
+test:595/872 | accuracy 574  0.9647058823529412
+prediction: negative
+label: negative
+test:596/872 | accuracy 575  0.964765100671141
+prediction: positive
+label: positive
+test:597/872 | accuracy 576  0.964824120603015
+prediction: positive
+label: positive
+test:598/872 | accuracy 577  0.9648829431438127
+prediction: positive
+label: positive
+test:599/872 | accuracy 578  0.9649415692821369
+prediction: positive
+label: positive
+test:600/872 | accuracy 579  0.965
+prediction: positive
+label: positive
+test:601/872 | accuracy 580  0.9650582362728786
+prediction: negative
+label: negative
+test:602/872 | accuracy 581  0.9651162790697675
+prediction: positive
+label: positive
+test:603/872 | accuracy 582  0.9651741293532339
+prediction: negative
+label: negative
+test:604/872 | accuracy 583  0.9652317880794702
+prediction: positive
+label: positive
+test:605/872 | accuracy 584  0.9652892561983472
+prediction: positive
+label: positive
+test:606/872 | accuracy 585  0.9653465346534653
+prediction: positive
+label: positive
+test:607/872 | accuracy 586  0.9654036243822076
+prediction: positive
+label: positive
+test:608/872 | accuracy 587  0.9654605263157895
+prediction: negative
+label: negative
+test:609/872 | accuracy 588  0.9655172413793104
+prediction: positive
+label: positive
+test:610/872 | accuracy 589  0.9655737704918033
+prediction: negative
+label: negative
+test:611/872 | accuracy 590  0.9656301145662848
+prediction: negative
+label: negative
+test:612/872 | accuracy 591  0.9656862745098039
+prediction: positive
+label: positive
+test:613/872 | accuracy 592  0.965742251223491
+prediction: negative
+label: negative
+test:614/872 | accuracy 593  0.9657980456026058
+prediction: positive
+label: positive
+test:615/872 | accuracy 594  0.9658536585365853
+prediction: negative
+label: negative
+test:616/872 | accuracy 595  0.9659090909090909
+prediction: negative
+label: negative
+test:617/872 | accuracy 596  0.965964343598055
+prediction: positive
+label: positive
+test:618/872 | accuracy 597  0.9660194174757282
+prediction: positive
+label: positive
+test:619/872 | accuracy 598  0.9660743134087237
+prediction: positive
+label: positive
+test:620/872 | accuracy 599  0.9661290322580646
+prediction: positive
+label: positive
+test:621/872 | accuracy 600  0.966183574879227
+prediction: positive
+label: positive
+test:622/872 | accuracy 601  0.9662379421221865
+prediction: positive
+label: positive
+test:623/872 | accuracy 602  0.9662921348314607
+prediction: positive
+label: positive
+test:624/872 | accuracy 603  0.9663461538461539
+prediction: negative
+label: negative
+test:625/872 | accuracy 604  0.9664
+prediction: positive
+label: positive
+test:626/872 | accuracy 605  0.9664536741214057
+prediction: negative
+label: negative
+test:627/872 | accuracy 606  0.9665071770334929
+prediction: negative
+label: positive
+test:628/872 | accuracy 606  0.964968152866242
+prediction: negative
+label: negative
+test:629/872 | accuracy 607  0.9650238473767886
+prediction: positive
+label: positive
+test:630/872 | accuracy 608  0.9650793650793651
+prediction: negative
+label: negative
+test:631/872 | accuracy 609  0.96513470681458
+prediction: positive
+label: negative
+test:632/872 | accuracy 609  0.9636075949367089
+prediction: positive
+label: positive
+test:633/872 | accuracy 610  0.9636650868878357
+prediction: negative
+label: negative
+test:634/872 | accuracy 611  0.9637223974763407
+prediction: positive
+label: positive
+test:635/872 | accuracy 612  0.9637795275590552
+prediction: positive
+label: positive
+test:636/872 | accuracy 613  0.9638364779874213
+prediction: positive
+label: positive
+test:637/872 | accuracy 614  0.9638932496075353
+prediction: positive
+label: positive
+test:638/872 | accuracy 615  0.9639498432601881
+prediction: positive
+label: positive
+test:639/872 | accuracy 616  0.9640062597809077
+prediction: negative
+label: negative
+test:640/872 | accuracy 617  0.9640625
+prediction: positive
+label: positive
+test:641/872 | accuracy 618  0.9641185647425897
+prediction: negative
+label: negative
+test:642/872 | accuracy 619  0.9641744548286605
+prediction: negative
+label: negative
+test:643/872 | accuracy 620  0.9642301710730948
+prediction: positive
+label: positive
+test:644/872 | accuracy 621  0.9642857142857143
+prediction: positive
+label: positive
+test:645/872 | accuracy 622  0.9643410852713178
+prediction: negative
+label: negative
+test:646/872 | accuracy 623  0.9643962848297214
+prediction: positive
+label: positive
+test:647/872 | accuracy 624  0.964451313755796
+prediction: positive
+label: positive
+test:648/872 | accuracy 625  0.9645061728395061
+prediction: negative
+label: negative
+test:649/872 | accuracy 626  0.9645608628659477
+prediction: negative
+label: negative
+test:650/872 | accuracy 627  0.9646153846153847
+prediction: negative
+label: negative
+test:651/872 | accuracy 628  0.9646697388632872
+prediction: negative
+label: negative
+test:652/872 | accuracy 629  0.9647239263803681
+prediction: negative
+label: negative
+test:653/872 | accuracy 630  0.9647779479326187
+prediction: positive
+label: positive
+test:654/872 | accuracy 631  0.9648318042813455
+prediction: negative
+label: negative
+test:655/872 | accuracy 632  0.9648854961832061
+prediction: positive
+label: positive
+test:656/872 | accuracy 633  0.9649390243902439
+prediction: negative
+label: negative
+test:657/872 | accuracy 634  0.9649923896499238
+prediction: negative
+label: negative
+test:658/872 | accuracy 635  0.9650455927051672
+prediction: negative
+label: negative
+test:659/872 | accuracy 636  0.9650986342943855
+prediction: negative
+label: negative
+test:660/872 | accuracy 637  0.9651515151515152
+prediction: positive
+label: positive
+test:661/872 | accuracy 638  0.9652042360060514
+prediction: positive
+label: positive
+test:662/872 | accuracy 639  0.9652567975830816
+prediction: negative
+label: negative
+test:663/872 | accuracy 640  0.9653092006033183
+prediction: negative
+label: positive
+test:664/872 | accuracy 640  0.963855421686747
+prediction: negative
+label: negative
+test:665/872 | accuracy 641  0.9639097744360903
+prediction: positive
+label: positive
+test:666/872 | accuracy 642  0.963963963963964
+prediction: negative
+label: negative
+test:667/872 | accuracy 643  0.9640179910044977
+prediction: positive
+label: positive
+test:668/872 | accuracy 644  0.9640718562874252
+prediction: positive
+label: positive
+test:669/872 | accuracy 645  0.9641255605381166
+prediction: positive
+label: positive
+test:670/872 | accuracy 646  0.9641791044776119
+prediction: positive
+label: positive
+test:671/872 | accuracy 647  0.9642324888226528
+prediction: negative
+label: negative
+test:672/872 | accuracy 648  0.9642857142857143
+prediction: negative
+label: negative
+test:673/872 | accuracy 649  0.9643387815750372
+prediction: positive
+label: positive
+test:674/872 | accuracy 650  0.9643916913946587
+prediction: positive
+label: positive
+test:675/872 | accuracy 651  0.9644444444444444
+prediction: positive
+label: positive
+test:676/872 | accuracy 652  0.9644970414201184
+prediction: positive
+label: positive
+test:677/872 | accuracy 653  0.9645494830132939
+prediction: negative
+label: negative
+test:678/872 | accuracy 654  0.9646017699115044
+prediction: negative
+label: negative
+test:679/872 | accuracy 655  0.9646539027982327
+prediction: negative
+label: negative
+test:680/872 | accuracy 656  0.9647058823529412
+prediction: positive
+label: positive
+test:681/872 | accuracy 657  0.9647577092511013
+prediction: negative
+label: negative
+test:682/872 | accuracy 658  0.9648093841642229
+prediction: positive
+label: positive
+test:683/872 | accuracy 659  0.9648609077598829
+prediction: positive
+label: positive
+test:684/872 | accuracy 660  0.9649122807017544
+prediction: positive
+label: positive
+test:685/872 | accuracy 661  0.964963503649635
+prediction: negative
+label: negative
+test:686/872 | accuracy 662  0.9650145772594753
+prediction: positive
+label: positive
+test:687/872 | accuracy 663  0.9650655021834061
+prediction: negative
+label: negative
+test:688/872 | accuracy 664  0.9651162790697675
+prediction: positive
+label: positive
+test:689/872 | accuracy 665  0.965166908563135
+prediction: negative
+label: positive
+test:690/872 | accuracy 665  0.9637681159420289
+prediction: positive
+label: positive
+test:691/872 | accuracy 666  0.9638205499276411
+prediction: positive
+label: positive
+test:692/872 | accuracy 667  0.9638728323699421
+prediction: positive
+label: positive
+test:693/872 | accuracy 668  0.963924963924964
+prediction: negative
+label: negative
+test:694/872 | accuracy 669  0.9639769452449568
+prediction: negative
+label: negative
+test:695/872 | accuracy 670  0.9640287769784173
+prediction: positive
+label: positive
+test:696/872 | accuracy 671  0.9640804597701149
+prediction: positive
+label: positive
+test:697/872 | accuracy 672  0.9641319942611191
+prediction: positive
+label: positive
+test:698/872 | accuracy 673  0.9641833810888252
+prediction: negative
+label: negative
+test:699/872 | accuracy 674  0.9642346208869814
+prediction: positive
+label: positive
+test:700/872 | accuracy 675  0.9642857142857143
+prediction: positive
+label: positive
+test:701/872 | accuracy 676  0.9643366619115549
+prediction: negative
+label: negative
+test:702/872 | accuracy 677  0.9643874643874644
+prediction: positive
+label: positive
+test:703/872 | accuracy 678  0.9644381223328592
+prediction: positive
+label: positive
+test:704/872 | accuracy 679  0.9644886363636364
+prediction: negative
+label: negative
+test:705/872 | accuracy 680  0.9645390070921985
+prediction: negative
+label: negative
+test:706/872 | accuracy 681  0.9645892351274787
+prediction: negative
+label: negative
+test:707/872 | accuracy 682  0.9646393210749646
+prediction: negative
+label: negative
+test:708/872 | accuracy 683  0.9646892655367232
+prediction: negative
+label: negative
+test:709/872 | accuracy 684  0.9647390691114246
+prediction: positive
+label: positive
+test:710/872 | accuracy 685  0.9647887323943662
+prediction: positive
+label: positive
+test:711/872 | accuracy 686  0.9648382559774965
+prediction: positive
+label: positive
+test:712/872 | accuracy 687  0.9648876404494382
+prediction: positive
+label: positive
+test:713/872 | accuracy 688  0.9649368863955119
+prediction: positive
+label: positive
+test:714/872 | accuracy 689  0.9649859943977591
+prediction: positive
+label: positive
+test:715/872 | accuracy 690  0.965034965034965
+prediction: negative
+label: negative
+test:716/872 | accuracy 691  0.9650837988826816
+prediction: negative
+label: negative
+test:717/872 | accuracy 692  0.9651324965132496
+prediction: positive
+label: positive
+test:718/872 | accuracy 693  0.9651810584958217
+prediction: positive
+label: positive
+test:719/872 | accuracy 694  0.9652294853963839
+prediction: positive
+label: positive
+test:720/872 | accuracy 695  0.9652777777777778
+prediction: negative
+label: positive
+test:721/872 | accuracy 695  0.9639389736477115
+prediction: negative
+label: negative
+test:722/872 | accuracy 696  0.96398891966759
+prediction: negative
+label: negative
+test:723/872 | accuracy 697  0.9640387275242047
+prediction: positive
+label: positive
+test:724/872 | accuracy 698  0.9640883977900553
+prediction: positive
+label: positive
+test:725/872 | accuracy 699  0.9641379310344828
+prediction: negative
+label: negative
+test:726/872 | accuracy 700  0.9641873278236914
+prediction: negative
+label: negative
+test:727/872 | accuracy 701  0.9642365887207703
+prediction: negative
+label: negative
+test:728/872 | accuracy 702  0.9642857142857143
+prediction: positive
+label: positive
+test:729/872 | accuracy 703  0.9643347050754458
+prediction: negative
+label: negative
+test:730/872 | accuracy 704  0.9643835616438357
+prediction: negative
+label: negative
+test:731/872 | accuracy 705  0.9644322845417237
+prediction: positive
+label: positive
+test:732/872 | accuracy 706  0.9644808743169399
+prediction: negative
+label: negative
+test:733/872 | accuracy 707  0.9645293315143247
+prediction: positive
+label: positive
+test:734/872 | accuracy 708  0.9645776566757494
+prediction: positive
+label: positive
+test:735/872 | accuracy 709  0.964625850340136
+prediction: negative
+label: negative
+test:736/872 | accuracy 710  0.9646739130434783
+prediction: positive
+label: positive
+test:737/872 | accuracy 711  0.9647218453188603
+prediction: negative
+label: negative
+test:738/872 | accuracy 712  0.964769647696477
+prediction: negative
+label: negative
+test:739/872 | accuracy 713  0.9648173207036536
+prediction: negative
+label: negative
+test:740/872 | accuracy 714  0.9648648648648649
+prediction: negative
+label: negative
+test:741/872 | accuracy 715  0.9649122807017544
+prediction: negative
+label: negative
+test:742/872 | accuracy 716  0.9649595687331537
+prediction: positive
+label: positive
+test:743/872 | accuracy 717  0.9650067294751009
+prediction: negative
+label: negative
+test:744/872 | accuracy 718  0.9650537634408602
+prediction: negative
+label: negative
+test:745/872 | accuracy 719  0.9651006711409396
+prediction: positive
+label: positive
+test:746/872 | accuracy 720  0.9651474530831099
+prediction: positive
+label: positive
+test:747/872 | accuracy 721  0.965194109772423
+prediction: positive
+label: positive
+test:748/872 | accuracy 722  0.9652406417112299
+prediction: positive
+label: positive
+test:749/872 | accuracy 723  0.965287049399199
+prediction: negative
+label: negative
+test:750/872 | accuracy 724  0.9653333333333334
+prediction: negative
+label: negative
+test:751/872 | accuracy 725  0.9653794940079894
+prediction: negative
+label: negative
+test:752/872 | accuracy 726  0.9654255319148937
+prediction: positive
+label: positive
+test:753/872 | accuracy 727  0.9654714475431607
+prediction: positive
+label: positive
+test:754/872 | accuracy 728  0.9655172413793104
+prediction: negative
+label: negative
+test:755/872 | accuracy 729  0.9655629139072848
+prediction: positive
+label: positive
+test:756/872 | accuracy 730  0.9656084656084656
+prediction: positive
+label: positive
+test:757/872 | accuracy 731  0.9656538969616909
+prediction: negative
+label: negative
+test:758/872 | accuracy 732  0.9656992084432717
+prediction: positive
+label: positive
+test:759/872 | accuracy 733  0.9657444005270093
+prediction: positive
+label: positive
+test:760/872 | accuracy 734  0.9657894736842105
+prediction: positive
+label: positive
+test:761/872 | accuracy 735  0.9658344283837057
+prediction: positive
+label: positive
+test:762/872 | accuracy 736  0.9658792650918635
+prediction: negative
+label: negative
+test:763/872 | accuracy 737  0.9659239842726082
+prediction: positive
+label: positive
+test:764/872 | accuracy 738  0.9659685863874345
+prediction: negative
+label: negative
+test:765/872 | accuracy 739  0.9660130718954248
+prediction: positive
+label: positive
+test:766/872 | accuracy 740  0.9660574412532638
+prediction: positive
+label: positive
+test:767/872 | accuracy 741  0.9661016949152542
+prediction: negative
+label: negative
+test:768/872 | accuracy 742  0.9661458333333334
+prediction: positive
+label: negative
+test:769/872 | accuracy 742  0.9648894668400521
+prediction: negative
+label: negative
+test:770/872 | accuracy 743  0.964935064935065
+prediction: negative
+label: positive
+test:771/872 | accuracy 743  0.9636835278858625
+prediction: positive
+label: positive
+test:772/872 | accuracy 744  0.9637305699481865
+prediction: negative
+label: negative
+test:773/872 | accuracy 745  0.963777490297542
+prediction: negative
+label: negative
+test:774/872 | accuracy 746  0.9638242894056848
+prediction: positive
+label: negative
+test:775/872 | accuracy 746  0.9625806451612903
+prediction: positive
+label: positive
+test:776/872 | accuracy 747  0.9626288659793815
+prediction: positive
+label: positive
+test:777/872 | accuracy 748  0.9626769626769627
+prediction: positive
+label: positive
+test:778/872 | accuracy 749  0.9627249357326478
+prediction: positive
+label: positive
+test:779/872 | accuracy 750  0.962772785622593
+prediction: positive
+label: positive
+test:780/872 | accuracy 751  0.9628205128205128
+prediction: negative
+label: negative
+test:781/872 | accuracy 752  0.9628681177976952
+prediction: positive
+label: positive
+test:782/872 | accuracy 753  0.9629156010230179
+prediction: positive
+label: positive
+test:783/872 | accuracy 754  0.9629629629629629
+prediction: positive
+label: positive
+test:784/872 | accuracy 755  0.9630102040816326
+prediction: negative
+label: negative
+test:785/872 | accuracy 756  0.9630573248407643
+prediction: positive
+label: positive
+test:786/872 | accuracy 757  0.9631043256997456
+prediction: negative
+label: negative
+test:787/872 | accuracy 758  0.963151207115629
+prediction: negative
+label: negative
+test:788/872 | accuracy 759  0.9631979695431472
+prediction: positive
+label: positive
+test:789/872 | accuracy 760  0.9632446134347274
+prediction: negative
+label: negative
+test:790/872 | accuracy 761  0.9632911392405064
+prediction: positive
+label: positive
+test:791/872 | accuracy 762  0.9633375474083439
+prediction: negative
+label: negative
+test:792/872 | accuracy 763  0.9633838383838383
+prediction: positive
+label: positive
+test:793/872 | accuracy 764  0.9634300126103404
+prediction: negative
+label: negative
+test:794/872 | accuracy 765  0.9634760705289672
+prediction: negative
+label: negative
+test:795/872 | accuracy 766  0.9635220125786164
+prediction: negative
+label: negative
+test:796/872 | accuracy 767  0.9635678391959799
+prediction: negative
+label: negative
+test:797/872 | accuracy 768  0.9636135508155583
+prediction: positive
+label: positive
+test:798/872 | accuracy 769  0.9636591478696742
+prediction: negative
+label: negative
+test:799/872 | accuracy 770  0.9637046307884856
+prediction: positive
+label: positive
+test:800/872 | accuracy 771  0.96375
+prediction: positive
+label: positive
+test:801/872 | accuracy 772  0.9637952559300874
+prediction: negative
+label: negative
+test:802/872 | accuracy 773  0.9638403990024937
+prediction: negative
+label: negative
+test:803/872 | accuracy 774  0.9638854296388543
+prediction: positive
+label: positive
+test:804/872 | accuracy 775  0.9639303482587065
+prediction: positive
+label: positive
+test:805/872 | accuracy 776  0.9639751552795031
+prediction: negative
+label: negative
+test:806/872 | accuracy 777  0.9640198511166254
+prediction: negative
+label: negative
+test:807/872 | accuracy 778  0.9640644361833953
+prediction: negative
+label: negative
+test:808/872 | accuracy 779  0.9641089108910891
+prediction: negative
+label: negative
+test:809/872 | accuracy 780  0.9641532756489494
+prediction: negative
+label: negative
+test:810/872 | accuracy 781  0.9641975308641976
+prediction: positive
+label: positive
+test:811/872 | accuracy 782  0.9642416769420469
+prediction: negative
+label: negative
+test:812/872 | accuracy 783  0.9642857142857143
+prediction: negative
+label: negative
+test:813/872 | accuracy 784  0.964329643296433
+prediction: negative
+label: negative
+test:814/872 | accuracy 785  0.9643734643734644
+prediction: negative
+label: negative
+test:815/872 | accuracy 786  0.9644171779141104
+prediction: positive
+label: positive
+test:816/872 | accuracy 787  0.9644607843137255
+prediction: negative
+label: negative
+test:817/872 | accuracy 788  0.9645042839657283
+prediction: positive
+label: positive
+test:818/872 | accuracy 789  0.9645476772616137
+prediction: negative
+label: negative
+test:819/872 | accuracy 790  0.9645909645909646
+prediction: positive
+label: positive
+test:820/872 | accuracy 791  0.9646341463414634
+prediction: positive
+label: positive
+test:821/872 | accuracy 792  0.9646772228989038
+prediction: negative
+label: negative
+test:822/872 | accuracy 793  0.9647201946472019
+prediction: negative
+label: negative
+test:823/872 | accuracy 794  0.9647630619684082
+prediction: positive
+label: positive
+test:824/872 | accuracy 795  0.9648058252427184
+prediction: negative
+label: negative
+test:825/872 | accuracy 796  0.9648484848484848
+prediction: positive
+label: positive
+test:826/872 | accuracy 797  0.9648910411622276
+prediction: positive
+label: positive
+test:827/872 | accuracy 798  0.9649334945586457
+prediction: positive
+label: positive
+test:828/872 | accuracy 799  0.964975845410628
+prediction: negative
+label: negative
+test:829/872 | accuracy 800  0.9650180940892642
+prediction: negative
+label: negative
+test:830/872 | accuracy 801  0.9650602409638555
+prediction: negative
+label: negative
+test:831/872 | accuracy 802  0.9651022864019254
+prediction: positive
+label: positive
+test:832/872 | accuracy 803  0.9651442307692307
+prediction: positive
+label: positive
+test:833/872 | accuracy 804  0.9651860744297719
+prediction: negative
+label: negative
+test:834/872 | accuracy 805  0.9652278177458034
+prediction: positive
+label: positive
+test:835/872 | accuracy 806  0.9652694610778443
+prediction: negative
+label: negative
+test:836/872 | accuracy 807  0.965311004784689
+prediction: positive
+label: positive
+test:837/872 | accuracy 808  0.965352449223417
+prediction: negative
+label: negative
+test:838/872 | accuracy 809  0.9653937947494033
+prediction: positive
+label: positive
+test:839/872 | accuracy 810  0.965435041716329
+prediction: positive
+label: positive
+test:840/872 | accuracy 811  0.9654761904761905
+prediction: negative
+label: positive
+test:841/872 | accuracy 811  0.9643281807372176
+prediction: positive
+label: positive
+test:842/872 | accuracy 812  0.9643705463182898
+prediction: positive
+label: positive
+test:843/872 | accuracy 813  0.9644128113879004
+prediction: negative
+label: negative
+test:844/872 | accuracy 814  0.9644549763033176
+prediction: positive
+label: negative
+test:845/872 | accuracy 814  0.9633136094674556
+prediction: positive
+label: positive
+test:846/872 | accuracy 815  0.9633569739952719
+prediction: negative
+label: negative
+test:847/872 | accuracy 816  0.9634002361275088
+prediction: negative
+label: negative
+test:848/872 | accuracy 817  0.9634433962264151
+prediction: positive
+label: positive
+test:849/872 | accuracy 818  0.9634864546525324
+prediction: negative
+label: negative
+test:850/872 | accuracy 819  0.9635294117647059
+prediction: negative
+label: negative
+test:851/872 | accuracy 820  0.963572267920094
+prediction: negative
+label: negative
+test:852/872 | accuracy 821  0.9636150234741784
+prediction: positive
+label: positive
+test:853/872 | accuracy 822  0.9636576787807737
+prediction: negative
+label: negative
+test:854/872 | accuracy 823  0.9637002341920374
+prediction: negative
+label: negative
+test:855/872 | accuracy 824  0.9637426900584796
+prediction: positive
+label: positive
+test:856/872 | accuracy 825  0.9637850467289719
+prediction: negative
+label: negative
+test:857/872 | accuracy 826  0.9638273045507585
+prediction: positive
+label: positive
+test:858/872 | accuracy 827  0.9638694638694638
+prediction: negative
+label: negative
+test:859/872 | accuracy 828  0.9639115250291036
+prediction: positive
+label: positive
+test:860/872 | accuracy 829  0.963953488372093
+prediction: negative
+label: negative
+test:861/872 | accuracy 830  0.9639953542392566
+prediction: negative
+label: negative
+test:862/872 | accuracy 831  0.9640371229698376
+prediction: negative
+label: negative
+test:863/872 | accuracy 832  0.9640787949015064
+prediction: positive
+label: positive
+test:864/872 | accuracy 833  0.9641203703703703
+prediction: positive
+label: positive
+test:865/872 | accuracy 834  0.9641618497109826
+prediction: positive
+label: positive
+test:866/872 | accuracy 835  0.964203233256351
+prediction: negative
+label: negative
+test:867/872 | accuracy 836  0.9642445213379469
+prediction: positive
+label: positive
+test:868/872 | accuracy 837  0.9642857142857143
+prediction: negative
+label: negative
+test:869/872 | accuracy 838  0.9643268124280783
+prediction: negative
+label: negative
+test:870/872 | accuracy 839  0.964367816091954
+prediction: positive
+label: positive
+test:871/872 | accuracy 840  0.9644087256027555
+prediction: positive
+label: positive
+test:872/872 | accuracy 841  0.9644495412844036
+Unique true labels: {'positive', 'negative'}
+Unique predicted labels: {'positive', 'negative'}
+ The metrics for sst2 Accuracy: 0.9644, Precision: 0.9683, Recall: 0.9617, F1: 0.9650
+
+
+test finished

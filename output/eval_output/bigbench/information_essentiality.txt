@@ -1,0 +1,33 @@
+[]
+prediction: a
+label: a
+prediction: a
+label: d
+prediction: a
+label: f
+prediction: a
+label: d
+prediction: a
+label: b
+prediction: a
+label: d
+prediction: a
+label: a
+prediction: a
+label: b
+prediction: a
+label: a
+prediction: a
+label: e
+prediction: a
+label: d
+prediction: a
+label: c
+prediction: a
+label: d
+prediction: a
+label: b
+ The metrics for information_essentiality Accuracy: 0.2143, Macro F1: 0.0588
+
+
+test finished

@@ -1,0 +1,20 @@
+[]
+STS-B Pearson: -0.026510746644600184
+ The metrics for car_combined Metrics → Pearson: -0.0265, MAE: 42.5352, RMSE: 285.5449
+test finished
+[]
+STS-B Pearson: -0.010566711258161785
+ The metrics for car_combined Metrics → Pearson: -0.0106, MAE: 4.1068, RMSE: 81.5434
+test finished
+[]
+STS-B Pearson: -0.039917758792744985
+ The metrics for car_combined Metrics → Pearson: -0.0399, MAE: 8.5111, RMSE: 128.9774
+test finished
+[]
+STS-B Pearson: -0.006754673710342991
+ The metrics for car_combined Metrics → Pearson: -0.0068, MAE: 23342670401493929984.0000, RMSE: 1527830828380351889408.0000
+test finished
+[]
+STS-B Pearson: 0.013805000003207293
+ The metrics for car_combined Metrics → Pearson: 0.0138, MAE: 22.0323, RMSE: 42.7291, spearman: -0.0107
+test finished

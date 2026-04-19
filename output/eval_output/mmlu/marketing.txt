@@ -1,0 +1,10 @@
+[]
+Unique true labels: {'C', 'D', 'A', 'B'}
+Unique predicted labels: {'C', 'D'}
+Accuracy: 0.2000, Precision: 0.2917, Recall: 0.2812, F1: 0.1270
+
+Per-task Accuracy:
+Task 5: Accuracy = 0.2000
+
+
+test finished

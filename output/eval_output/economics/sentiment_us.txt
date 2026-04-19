@@ -1,0 +1,4 @@
+[2026-04-05 16:49:30,147] [WARNING] [real_accelerator.py:209:get_accelerator] Setting accelerator to CPU. If you have GPU or other accelerator, we were unable to detect it.
+[]
+ The metrics for sentiment_us Accuracy: 0.5874, Precision: 0.5874, Recall: 1.0000, F1: 0.7401
+test finished

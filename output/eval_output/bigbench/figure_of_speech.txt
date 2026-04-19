@@ -1,0 +1,29 @@
+[]
+prediction: alliteration
+label: alliteration
+prediction: oxymoron
+label: oxymoron
+prediction: metaphor
+label: hyperbole
+prediction: pun
+label: euphemism
+prediction: pun
+label: personification
+prediction: pun
+label: hyperbole
+prediction: pun
+label: euphemism
+prediction: euphemism
+label: euphemism
+prediction: simile
+label: hyperbole
+prediction: onomatopoeia
+label: onomatopoeia
+prediction: pun
+label: euphemism
+prediction: personification
+label: alliteration
+ The metrics for figure_of_speech Accuracy: 0.3333, Macro F1: 0.3407
+
+
+test finished

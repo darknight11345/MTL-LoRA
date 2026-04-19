@@ -1,0 +1,25 @@
+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
+CUDA available: True
+`torch_dtype` is deprecated! Use `dtype` instead!
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:46<00:46, 46.05s/it]Loading checkpoint shards: 100%|██████████| 2/2 [01:02<00:00, 28.72s/it]Loading checkpoint shards: 100%|██████████| 2/2 [01:02<00:00, 31.32s/it]
+The following generation flags are not valid and may be ignored: ['top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+This is a friendly reminder - the current text generation call has exceeded the model's predefined maximum length (4096). Depending on the model, you may observe exceptions, performance degradation, or nothing at all.
+[]
+ The metrics for sentiment_eu Accuracy: 0.5369, Precision: 0.5365, Recall: 1.0000, F1: 0.6984
+test finished
+Done
+
+============================= JOB FEEDBACK =============================
+
+NodeName=uc2n915
+Job ID: 3862674
+Cluster: uc3
+User/Group: ul_swv79/ul_student
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 8
+CPU Utilized: 03:50:12
+CPU Efficiency: 12.27% of 1-07:16:08 core-walltime
+Job Wall-clock time: 03:54:31
+Memory Utilized: 8.79 GB
+Memory Efficiency: 13.74% of 64.00 GB (64.00 GB/node)

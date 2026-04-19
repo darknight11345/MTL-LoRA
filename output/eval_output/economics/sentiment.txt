@@ -1,0 +1,3 @@
+[]
+ The metrics for sentiment Accuracy: 0.6115, Precision: 0.6112, Recall: 1.0000, F1: 0.7587
+test finished

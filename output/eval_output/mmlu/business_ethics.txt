@@ -1,0 +1,190 @@
+[]
+Unique true labels: {'A', 'B', 'C'}
+Unique predicted labels: {'D'}
+Accuracy: 0.0000, Precision: 0.0000, Recall: 0.0000, F1: 0.0000
+
+Per-task Accuracy:
+Task 3: Accuracy = 0.0000
+
+
+test finished
+[]
+Unique true labels: {'B', 'A', 'C'}
+Unique predicted labels: {'D'}
+Accuracy: 0.0000, Precision: 0.0000, Recall: 0.0000, F1: 0.0000
+
+Per-task Accuracy:
+Task 3: Accuracy = 0.0000
+
+
+test finished
+[]
+Unique true labels: {'A', 'B', 'C'}
+Unique predicted labels: {'A', 'D'}
+Accuracy: 0.0909, Precision: 0.2500, Recall: 0.0417, F1: 0.0714
+
+Per-task Accuracy:
+Task 3: Accuracy = 0.0909
+
+
+test finished
+[]
+Unique true labels: {'C', 'B', 'A'}
+Unique predicted labels: {'D'}
+Accuracy: 0.0000, Precision: 0.0000, Recall: 0.0000, F1: 0.0000
+
+Per-task Accuracy:
+Task 3: Accuracy = 0.0000
+[]
+[]
+Unique true labels: {'A', 'C', 'B'}
+Unique predicted labels: {'D'}
+Accuracy: 0.0000, Precision: 0.0000, Recall: 0.0000, F1: 0.0000
+
+Per-task Accuracy:
+Task 3: Accuracy = 0.0000
+
+
+test finished
+[]
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+Unique true labels: {'C', 'B', 'A'}
+Unique predicted labels: {'D'}
+Accuracy: 0.0000, Precision: 0.0000, Recall: 0.0000, F1: 0.0000
+
+Per-task Accuracy:
+Task 3: Accuracy = 0.0000
+
+
+test finished
+[]
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: 
+[]
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+Unique true labels: {'B', 'A', 'C'}
+Unique predicted labels: {'D'}
+Accuracy: 0.0000, Precision: 0.0000, Recall: 0.0000, F1: 0.0000
+
+Per-task Accuracy:
+Task 3: Accuracy = 0.0000
+
+
+test finished
+[]
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: 
+ the predicted sentence is: D
+ the predicted sentence is: D
+Unique true labels: {'C', 'A', 'B'}
+Unique predicted labels: {None}
+[]
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+Unique true labels: {'A', 'B', 'C'}
+Unique predicted labels: {'D'}
+Accuracy: 0.0000, Precision: 0.0000, Recall: 0.0000, F1: 0.0000
+
+Per-task Accuracy:
+Task 3: Accuracy = 0.0000
+
+
+test finished
+[]
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: C
+ the predicted sentence is: C
+ the predicted sentence is: C
+ the predicted sentence is: C
+ the predicted sentence is: D
+ the predicted sentence is: C
+ the predicted sentence is: C
+ the predicted sentence is: C
+Unique true labels: {'A', 'B', 'C'}
+Unique predicted labels: {None, 'C'}
+[]
+ the predicted sentence is: A
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: B
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: D
+ the predicted sentence is: C
+ the predicted sentence is: D
+ the predicted sentence is: D
+Unique true labels: {'A', 'C', 'B'}
+Unique predicted labels: {'A', None, 'C', 'B'}
+[]
+ the predicted sentence is: A
+ the predicted sentence is: D
+ the predicted sentence is: C
+ the predicted sentence is: D
+ the predicted sentence is: 
+ the predicted sentence is: C
+ the predicted sentence is: C
+ the predicted sentence is: D
+ the predicted sentence is: C
+ the predicted sentence is: C
+ the predicted sentence is: D
+Unique true labels: {'A', 'C', 'B'}
+Unique predicted labels: {'A', None, 'C'}
+[]
+ the predicted sentence is: A
+ the predicted sentence is: C
+ the predicted sentence is: C
+ the predicted sentence is: C
+ the predicted sentence is: C
+ the predicted sentence is: D
+ the predicted sentence is: C
+ the predicted sentence is: C
+ the predicted sentence is: C
+ the predicted sentence is: C
+ the predicted sentence is: D
+Unique true labels: {'C', 'B', 'A'}
+Unique predicted labels: {'C', None, 'A'}
+Accuracy: 0.3333, Precision: 0.4167, Recall: 0.4167, F1: 0.2667
+
+Per-task Accuracy:
