@@ -14,13 +14,6 @@ OUTPUT_PATH="/pfs/data6/home/ul/ul_student/ul_swv79/MTLLoRA/Code/MTL-LoRA/output
 #/home/ul/ul_student/ul_swv79/MTLLoRA/Code/MTL-LoRA/output/SuperGLUE/checkpoint/checkpoint/final_checkpoint.pt
 
 #/home/ul/ul_student/ul_swv79/MTLLoRA/Code/MTL-LoRA/output/SuperGLUE/checkpoint/checkpoint/final_checkpoint.pt
-
-#module load devel/miniforge/24.11.0-python-3.12
-#export PATH="$WS_MODEL/conda/pixtral/bin:$PATH"
-export HF_TOKEN=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
-echo $HF_TOKEN
-
-
 ## 2) CUDA-Modul -------------------------------------------------------
 module load devel/cuda/12.8              # laut `module avail cuda`
 
