@@ -1,7 +1,10 @@
-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
 CUDA available: True
 `torch_dtype` is deprecated! Use `dtype` instead!
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [01:05<01:05, 65.97s/it]Loading checkpoint shards: 100%|██████████| 2/2 [01:17<00:00, 34.09s/it]Loading checkpoint shards: 100%|██████████| 2/2 [01:17<00:00, 38.88s/it]
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [01:05<01:05, 65.97s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [01:17<00:00, 34.09s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [01:17<00:00, 38.88s/it]
 The following generation flags are not valid and may be ignored: ['top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
 This is a friendly reminder - the current text generation call has exceeded the model's predefined maximum length (4096). Depending on the model, you may observe exceptions, performance degradation, or nothing at all.
 []
