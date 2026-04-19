@@ -23,8 +23,6 @@ OUTPUT_PATH="/pfs/data6/home/ul/ul_student/ul_swv79/MTLLoRA/Code/MTL-LoRA/output
 #DATA_PATH="$TMPDIR/dataset.json"
 
 
-export HF_TOKEN=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
-echo $HF_TOKEN
 
 #export HF_HOME=$TMPDIR/hf_cache
 #export TRANSFORMERS_CACHE=$TMPDIR/hf_cache
