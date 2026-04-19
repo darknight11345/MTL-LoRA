@@ -23,8 +23,6 @@ CHECKPOINT_PATH_RTE="/pfs/data6/home/ul/ul_student/ul_swv79/MTLLoRA/Code/MTL-LoR
 #DATA_PATH="$TMPDIR/dataset.json"
 
 
-export HF_TOKEN=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
-echo $HF_TOKEN
 
 #export HF_HOME=$TMPDIR/hf_cache
 #export TRANSFORMERS_CACHE=$TMPDIR/hf_cache
